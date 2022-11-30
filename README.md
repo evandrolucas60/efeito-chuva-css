@@ -13,9 +13,6 @@ Criação de uma animação usando css3 que é ativada quando a página é carre
 ## Front end
 - HTML5 
 - CSS3
-- SVG Filters
-- SVG Masks
-
 
 # Como executar o projeto
 
